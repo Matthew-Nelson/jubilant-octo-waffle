@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: Matthew-Nelson/jubilant-octo-waffle
 
 media_folder: static/assets
 public_folder: assets
