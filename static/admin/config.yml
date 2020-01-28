@@ -2,8 +2,8 @@ backend:
   name: github
   repo: Matthew-Nelson/jubilant-octo-waffle
 
-media_folder: static/assets
-public_folder: assets
+media_folder: static/assets/
+public_folder: /assets
 
 collections:
   - name: blog

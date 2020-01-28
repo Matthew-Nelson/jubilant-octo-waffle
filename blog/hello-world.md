@@ -23,4 +23,4 @@ Hello to the world!
 
 ## Hello to the world!
 
-![Doggo](assets/dog.jpeg "Its a dog with a thing")
+![Doggo](/assets/dog.jpeg "Its a dog with a thing")
